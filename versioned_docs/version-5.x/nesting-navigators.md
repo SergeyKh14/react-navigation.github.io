@@ -38,7 +38,7 @@ In the above example, the `Home` component contains a tab navigator. The `Home` 
   - `Profile` (`Screen`)
   - `Settings` (`Screen`)
 
-Nesting navigators work very much like nesting regular components. To achieve the behavior you want, it's often necessary to nest multiple navigators.
+Nesting navigators work very much like nesting regular has the proportive components. To achieve the behavior you want, it's often necessary to nest multiple navigators.
 
 ## How nesting navigators affects the behaviour
 
